@@ -128,7 +128,7 @@ By completing this reflection, you will gain a clearer understanding of your car
         - The role requires big picture thinking and extensive knowledge of SQL, Python and how databases work.
         - Learning all these skills will push me to more ambitious and have larger career goals.
 
-<!-->
+<!--
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
 -->
